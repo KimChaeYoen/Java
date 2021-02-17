@@ -17,6 +17,7 @@ public class Exam02 {
 		boolean var9 = !(var1 == var2); // true
 		boolean var10 = (var1 == var2 || var1 != var2); //false or true -> true
 		boolean var11 = (var1 == var2 && var1 != var2); //false and false -> false
+ 		
 		
 	}
 
