@@ -1,4 +1,4 @@
-package chp04;
+package ch04;
 
 public class Exam03 {
 

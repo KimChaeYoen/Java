@@ -1,4 +1,4 @@
-package chp04;
+package ch04;
 
 public class Exam08 {
 //클래스의 이름은 파일이름이랑 같아야 한다.
